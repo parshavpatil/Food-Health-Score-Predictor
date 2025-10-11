@@ -36,7 +36,6 @@ This project helps users make better dietary decisions by analyzing ingredients 
 1. Clone the repository:
    ```bash
    git clone https://github.com/parshavpatil/Food-Health-Score-Predictor.git 
-\n
 
 2. Navigate into the project folder: \n
 cd Food-Health-Score-Predictor
