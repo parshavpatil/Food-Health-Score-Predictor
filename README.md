@@ -46,13 +46,3 @@ pip install -r requirements.txt
 4.Run the project (example for notebook):
 python app.py
 
-
-📁 Project Structure
-Food-Health-Score-Predictor/
-│
-├── app.py                # Main application file
-├── model.pkl             # Trained ML model
-├── static/               # CSS, JS, images
-├── templates/            # HTML templates (for Flask)
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
