@@ -35,14 +35,15 @@ This project helps users make better dietary decisions by analyzing ingredients 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/parshavpatil/Food-Health-Score-Predictor.git
-   
-2. Navigate into the project folder:
+   git clone https://github.com/parshavpatil/Food-Health-Score-Predictor.git 
+\n
+
+2. Navigate into the project folder: \n
 cd Food-Health-Score-Predictor
 
-3.Install required dependencies:
+3.Install required dependencies: \n
 pip install -r requirements.txt 
 
-4.Run the project (example for notebook):
+4.Run the project:
 python app.py
 
