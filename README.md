@@ -40,12 +40,8 @@ This project helps users make better dietary decisions by analyzing ingredients 
 2. Navigate into the project folder:
 cd Food-Health-Score-Predictor
 
-
-
 3.Install required dependencies:
-pip install -r requirements.txt
-
-
+pip install -r requirements.txt 
 
 4.Run the project (example for notebook):
 python app.py
