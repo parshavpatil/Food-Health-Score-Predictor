@@ -2,6 +2,7 @@
 
 A machine learning web app that predicts the **health score of food items** based on their nutritional values.  
 This project helps users make better dietary decisions by analyzing ingredients and nutrient composition.
+---
 Check it live here: [Health Score Predictor](https://food-health-score-predictor.onrender.com)
 
 ---
