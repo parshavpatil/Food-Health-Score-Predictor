@@ -16,7 +16,8 @@ numpy
 gunicorn
 joblib
 pandas
-matplotlib
-scikit-learn
+os
+
+
 
 
