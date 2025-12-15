@@ -15,5 +15,8 @@ zipp==3.21.0
 numpy
 gunicorn
 joblib
+pandas
+matplotlib
+scikit-learn
 
 
