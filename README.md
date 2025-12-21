@@ -41,11 +41,15 @@ Check it live here: [Health Score Predictor](https://food-health-score-predictor
    git clone https://github.com/parshavpatil/Food-Health-Score-Predictor.git 
 
 2. Navigate into the project folder:
-cd Food-Health-Score-Predictor
+    ```bash
+   cd Food-Health-Score-Predictor
 
-3.Install required dependencies:
-pip install -r requirements.txt 
+3. Install required dependencies:
+    ```bash
+    pip install -r requirements.txt 
 
-4.Run the project:
+
+4. Run the project:
+ ```bash
 python app.py
 
